@@ -61,7 +61,7 @@ git clone https://github.com/S01-21/imgloader.git
 ## 📱 구현 화면
 
 <p align="center">
-  <img src="images/Screenshot_main.png" alt="메인" width="150"/>
-  <img src="images/Screenshot_list.png" alt="목록" width="150"/>
-  <img src="images/Screenshot_list2.png" alt="목록_가로" width="300"/>
+  <img src="images/Screenshot_main.png" alt="메인" width="250"/>
+  <img src="images/Screenshot_list.png" alt="목록" width="250"/>
+  <img src="images/Screenshot_list2.png" alt="목록_가로" width="500"/>
 </p>
