@@ -1,6 +1,6 @@
 # 📓 SOOP Live 카테고리 이미지 로드 프로젝트
 
-SOOP Live에서 제공하는 카테고리 데이터를 가져와 이미지를 로드하고 표시하는 Android 앱입니다.  
+[SOOP Live](https://www.sooplive.co.kr/directory/category)에서 제공하는 카테고리 데이터를 가져와 이미지를 로드하고 표시하는 Android 앱입니다.  
 Retrofit2를 이용하여 API에서 카테고리 데이터를 가져오고, Coil을 활용하여 효율적으로 이미지를 캐싱 및 로드합니다.  
 Jetpack Compose 기반으로 개발되었으며, 가로/세로 모드를 지원하는 반응형 UI를 제공합니다.
 
@@ -10,7 +10,7 @@ Jetpack Compose 기반으로 개발되었으며, 가로/세로 모드를 지원�
 
 ### **1. 프로젝트 클론**
 ```sh
-git clone https://github.com/YOUR_USERNAME/soop-live-image-loader.git
+git clone https://github.com/S01-21/imgloader.git
 ```
 
 ### **2. Android Studio에서 열기**
@@ -56,4 +56,12 @@ git clone https://github.com/YOUR_USERNAME/soop-live-image-loader.git
 - **조회수 오버레이 표시**
     - 이미지 왼쪽 상단에 조회수를 반투명 배경과 함께 오버레이
 
+---
 
+## 📱 구현 화면
+
+<p align="center">
+  <img src="images/Screenshot_main.png" alt="메인" width="150"/>
+  <img src="images/Screenshot_list.png" alt="목록" width="150"/>
+  <img src="images/Screenshot_list2.png" alt="목록_가로" width="300"/>
+</p>
