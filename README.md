@@ -11,7 +11,6 @@ Jetpack Compose 기반으로 개발되었으며, 가로/세로 모드를 지원�
 ### **1. 프로젝트 클론**
 ```sh
 git clone https://github.com/YOUR_USERNAME/soop-live-image-loader.git
-cd soop-live-image-loader
 ```
 
 ### **2. Android Studio에서 열기**
